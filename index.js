@@ -1,8 +1,3 @@
-"""
-Program made by Salty-Coder.
-Protected by GNU General Public License v3.0
-"""
-
 const Discord = require("discord.js")
 const fs = require("fs")
 const clc = require("cli-color")
